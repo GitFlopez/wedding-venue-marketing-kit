@@ -1,0 +1,10 @@
+{
+  "name": "wedding-venue-marketing-kit",
+  "version": "1.0.0",
+  "description": "ClawHub skill: wedding-venue-marketing-kit",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "marketing"
+  }
+}
